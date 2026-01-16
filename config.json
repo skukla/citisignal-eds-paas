@@ -1,0 +1,7 @@
+{
+  "commerce-core-endpoint": "https://edge-sandbox-graph.adobe.io/api/e6e5a805-92b3-473a-8e9d-d1a545272b38/graphql",
+  "commerce-endpoint": "https://edge-sandbox-graph.adobe.io/api/e6e5a805-92b3-473a-8e9d-d1a545272b38/graphql",
+  "store-view-code": "citisignal_us",
+  "website-code": "citisignal",
+  "store-code": "citisignal_store"
+}
